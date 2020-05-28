@@ -2,7 +2,6 @@
 #include "string"
 #include "checkString.h"
 
-
 FtpClient::FtpClient(){
 	// Load basic starting routine  (WSAstartup & local hostname)
 	Ftp::Init();
