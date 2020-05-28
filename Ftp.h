@@ -3,7 +3,7 @@
 #include <windows.h>
 #include <iostream>
 #include <fstream>
-
+#include "Exception"
 using namespace std;
 
 #define HOSTNAME_LENGTH 30
