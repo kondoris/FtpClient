@@ -1,6 +1,5 @@
 #include "Ftp.h"
 
-
 void Ftp::Init(){
 	cout << "/***********************************/\n";
 	cout << "/*  Welcome to FTP Client   */\n";
